@@ -1,0 +1,16 @@
+header > h2{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: space-between;
+  color:#F6525A;
+  margin: 5px;
+  max-width: 100px;
+}
+header{
+  background-color: #398BCD;
+}
+body{
+  background-color: #5AB4F6;
+}
+
